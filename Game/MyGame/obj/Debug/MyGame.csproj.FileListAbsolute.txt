@@ -1,0 +1,9 @@
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\bin\Debug\MyGame.exe
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.exe
+C:\Users\Rédouane\Documents\Visual Studio 2015\Projects\Game\MyGame\obj\Debug\MyGame.pdb
